@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - 🤔 an intermediator in web developement and familiar with programming
 - 💬 i am always available  to clear all your stuffs 
 - 📫 Please email via svkameshbabu@gmail.com to reach me.
-- Visit my personal site [click here](https://kameshbabuSV.github.io/my-site/)
+- Visit my personal site [click here](https://kameshbabuSV.github.io/my-webwsite/)
 
    
   </em>
