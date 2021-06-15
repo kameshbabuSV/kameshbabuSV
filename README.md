@@ -25,7 +25,7 @@
 - 🤔 an web developement and familiar with programming
 - 💬 i am always available  to clear all your stuffs 
 - 📫 Please email via svkameshbabu@gmail.com to reach me.
-- Visit my personal site [click here](https://kameshbabuSV.github.io/my-website/)
+- Visit my personal site [click here](https://kameshbabusv.github.io/Portfolio/)
 
    
   </em>
